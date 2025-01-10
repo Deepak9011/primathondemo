@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 this is a this is main branch
+=======
+this is a this is demo2 branch
+changes in remote repository
+>>>>>>> 8c6001d4ee97aa5d3b743c3d507ede1251bd0bd6
